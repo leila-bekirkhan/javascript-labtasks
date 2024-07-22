@@ -7,7 +7,7 @@ let population = 46;
 let country = 'Argentina';
 let language;
 
-console.log(typeof isIsland);
-console.log(typeof population);
-console.log(typeof country);
-console.log(typeof language);
+console.log(typeof isIsland); // Boolean
+console.log(typeof population); // number
+console.log(typeof country); // string
+console.log(typeof language); // undefined
