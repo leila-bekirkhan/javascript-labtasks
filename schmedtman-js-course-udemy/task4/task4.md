@@ -16,7 +16,7 @@ You are working on a simple program to calculate people's ages. You have the fol
 ## Notes:
 
 * Use arithmetic operations to calculate the ages.
-* Use `console.log()` to print to the console.
+* Use a single `console.log()` to print to the console.
 
 ## Expected Output:
 
