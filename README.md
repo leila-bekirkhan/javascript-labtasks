@@ -6,8 +6,8 @@ This repository contains practical assignments and projects in JavaScript that I
 ## Contents | Task Folders
 
 - Courses completed: 2
-- [schmedtmann-js-course-udemy/](https://github.com/leila-bekirkhan/javascript-labtasks/tree/main/schmedtman-js-course-udemy)
-- [/okhrimenko-free-js-course-itvdn/](./okhrimenko-free-js-course-itvdn/)
+- [/schmedtmann-js-course-udemy/](https://github.com/leila-bekirkhan/javascript-labtasks/tree/main/schmedtman-js-course-udemy)
+- [/okhrimenko-free-js-course-itvdn/](https://github.com/leila-bekirkhan/javascript-labtasks/tree/okhrimenko-free-js-course-itvdn/okhrimenko-free-js-course-itvdn/0001)
 
 ## Courses and Resources
 
