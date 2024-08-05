@@ -7,11 +7,11 @@ This repository contains practical assignments and projects in JavaScript that I
 
 - Courses completed: 2
 - [/schmedtmann-js-course-udemy/](https://github.com/leila-bekirkhan/javascript-labtasks/tree/main/schmedtman-js-course-udemy)
-- [/okhrimenko-free-js-course-itvdn/](https://github.com/leila-bekirkhan/javascript-labtasks/tree/okhrimenko-free-js-course-itvdn/okhrimenko-free-js-course-itvdn/0001)
+- [/okhrimenko-free-js-course-itvdn/](https://github.com/leila-bekirkhan/javascript-labtasks/tree/okhrimenko-free-js-course-itvdn/okhrimenko-free-js-course-itvdn/README.md)
 
 ## Courses and Resources
 
-### 1. Jonas Schmedtmann | Udemy 
+### 1. Jonas Schmedtmann | Udemy
   - [ ] [The JavaScript Course 2024: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
 
 ### 2. Dmitriy Okhrimenko | ITVDN & CyberBionic systematics
