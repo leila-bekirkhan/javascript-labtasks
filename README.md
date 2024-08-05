@@ -17,10 +17,7 @@ This repository contains practical assignments and projects in JavaScript that I
 ### 2. Dmitriy Okhrimenko | ITVDN & CyberBionic systematics
   - [ ] [Free JavaScript Programming Course 2024](https://github.com/d-okhrimenko/js-course-2024)
 
-### 4. Kyle Simpson | Book
-  - [ ] [You Don&#39;t Know JS Yet](https://github.com/getify/You-Dont-Know-JS)
-
-### 5. freeCodeCamp | Online Platform
+### 3. freeCodeCamp | Online Platform
   - [ ] [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
 ### Learning Progress
