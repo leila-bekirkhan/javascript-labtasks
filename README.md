@@ -5,25 +5,21 @@ This repository contains practical assignments and projects in JavaScript that I
 
 ### Solution Folders
 
-- [ ] [/schmedtmann-js-course-udemy/](./schmedtmann-js-course-udemy/)
+- [ ] [schmedtmann-js-course-udemy/](https://github.com/leila-bekirkhan/javascript-labtasks/tree/main/schmedtman-js-course-udemy)
 - [ ] [/okhrimenko-free-js-course-itvdn/](./okhrimenko-free-js-course-itvdn/)
 
 ### Courses and Resources
-#### Jonas Schmedtmann | Udemy
+1. **Jonas Schmedtmann | Udemy**  
+   [The JavaScript Course 2024: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
 
-[The JavaScript Course 2024: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
+2. **Dmitriy Okhrimenko | ITVDN & CyberBionic systematics**  
+  [Free JavaScript Programming Course 2024](https://github.com/d-okhrimenko/js-course-2024)
 
-#### Dmitriy Okhrimenko | ITVDN & CyberBionic systematics
+3. **Kyle Simpson | Book**  
+  [You Don&#39;t Know JS Yet](https://github.com/getify/You-Dont-Know-JS)
 
-[Free JavaScript Programming Course 2024](https://github.com/d-okhrimenko/js-course-2024)
-
-#### Kyle Simpson | Book
-
-[You Don&#39;t Know JS Yet](https://github.com/getify/You-Dont-Know-JS)
-
-#### freeCodeCamp | Online Platform
-
-[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+4. **freeCodeCamp | Online Platform**  
+  [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
 
 ### Skills and Technologies
