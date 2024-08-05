@@ -5,45 +5,8 @@
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<title>¡Click me!</title>
-		<style>
-			body {
-				padding: 50px;
-			}
-			.click-me {
-				max-width: 50%;
-				margin: 0 auto;
-				padding: 30px;
-				border: 3px solid #7fffd4;
-				border-radius: 15px;
-				text-align: center;
-				background-color: #e0f8b7;
-			}
-			.click-me-text {
-				font-size: 26px;
-				font-family: 'Trebuchet MS', sans-serif;
-				color: #262424;
-				margin-bottom: 25px;
-			}
-			.click-me-button {
-				font-size: 18px;
-				color: #262424;
-				padding: 10px 20px;
-				background-color: #7fffd4;
-				border: 2px solid #55cfa7;
-				border-radius: 15px;
-				transition: all 0.03s ease;
-				transform: scale(1);
-			}
-			.click-me-button:hover {
-				background-color: #aef9df;
-				cursor: pointer;
-				border-color: #90c5a0;
-				transform: scale(1.05);
-				box-shadow: 0 0 10px rgba(0,0,0,0.1);
-			}
-		</style>
-
-</head>
+		<link rel="stylesheet" href="0001.css">
+	</head>
 
 	<body>
 		<div class="click-me">
@@ -51,13 +14,7 @@
 			<button class="click-me-button" id="click-me-button">¡Click me!</button>
 		</div>
 
-		<script>
-			document.querySelector('#click-me-button').onclick = function() {
-				let clickMeText = document.querySelector('#click-me-text');
-				clickMeText.innerHTML = '&lt; Welcome to the IT World, my friend &gt;';
-				clickMeText.style.color = 'rgb(23, 99, 74)';
-			}
-		</script>
+		<script src="0001.js"></script>
 	</body>
 
 </html>
